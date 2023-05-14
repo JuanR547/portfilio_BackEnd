@@ -1,4 +1,4 @@
-package com.portfolioJuanReynoso.jr;
+package com.portfolioJR.jr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

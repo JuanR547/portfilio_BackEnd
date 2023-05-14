@@ -1,4 +1,4 @@
-package com.portfolioJuanReynoso.jr;
+package com.portfolioJR.jr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

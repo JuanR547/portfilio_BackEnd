@@ -8,11 +8,11 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.portfolioJuanReynoso</groupId>
+	<groupId>com.portfolioJR</groupId>
 	<artifactId>jr</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jr</name>
-	<description>Portfolio Juan Renyoso</description>
+	<description>Portfolio JR</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
